@@ -1,0 +1,12 @@
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\ApplicationExcepions\bin\Debug\netcoreapp3.1\ApplicationExcepions.exe
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\ApplicationExcepions\bin\Debug\netcoreapp3.1\ApplicationExcepions.deps.json
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\ApplicationExcepions\bin\Debug\netcoreapp3.1\ApplicationExcepions.runtimeconfig.json
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\ApplicationExcepions\bin\Debug\netcoreapp3.1\ApplicationExcepions.runtimeconfig.dev.json
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\ApplicationExcepions\bin\Debug\netcoreapp3.1\ApplicationExcepions.dll
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\ApplicationExcepions\bin\Debug\netcoreapp3.1\ApplicationExcepions.pdb
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\ApplicationExcepions\obj\Debug\netcoreapp3.1\ApplicationExcepions.AssemblyInfoInputs.cache
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\ApplicationExcepions\obj\Debug\netcoreapp3.1\ApplicationExcepions.AssemblyInfo.cs
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\ApplicationExcepions\obj\Debug\netcoreapp3.1\ApplicationExcepions.csproj.CoreCompileInputs.cache
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\ApplicationExcepions\obj\Debug\netcoreapp3.1\ApplicationExcepions.dll
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\ApplicationExcepions\obj\Debug\netcoreapp3.1\ApplicationExcepions.pdb
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\ApplicationExcepions\obj\Debug\netcoreapp3.1\ApplicationExcepions.genruntimeconfig.cache

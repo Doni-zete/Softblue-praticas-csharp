@@ -1,0 +1,7 @@
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Proprierties.Endereco\Proprierties.Endereco\obj\Debug\Proprierties.Endereco.csprojAssemblyReference.cache
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Proprierties.Endereco\Proprierties.Endereco\obj\Debug\Proprierties.Endereco.csproj.CoreCompileInputs.cache
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Proprierties.Endereco\Proprierties.Endereco\bin\Debug\Proprierties.Endereco.exe.config
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Proprierties.Endereco\Proprierties.Endereco\bin\Debug\Proprierties.Endereco.exe
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Proprierties.Endereco\Proprierties.Endereco\bin\Debug\Proprierties.Endereco.pdb
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Proprierties.Endereco\Proprierties.Endereco\obj\Debug\Proprierties.Endereco.exe
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Proprierties.Endereco\Proprierties.Endereco\obj\Debug\Proprierties.Endereco.pdb

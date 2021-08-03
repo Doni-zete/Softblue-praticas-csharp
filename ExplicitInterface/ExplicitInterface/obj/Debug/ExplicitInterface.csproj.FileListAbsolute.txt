@@ -1,0 +1,7 @@
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\ExplicitInterface\ExplicitInterface\bin\Debug\ExplicitInterface.exe.config
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\ExplicitInterface\ExplicitInterface\bin\Debug\ExplicitInterface.exe
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\ExplicitInterface\ExplicitInterface\bin\Debug\ExplicitInterface.pdb
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\ExplicitInterface\ExplicitInterface\obj\Debug\ExplicitInterface.csproj.AssemblyReference.cache
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\ExplicitInterface\ExplicitInterface\obj\Debug\ExplicitInterface.csproj.CoreCompileInputs.cache
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\ExplicitInterface\ExplicitInterface\obj\Debug\ExplicitInterface.exe
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\ExplicitInterface\ExplicitInterface\obj\Debug\ExplicitInterface.pdb

@@ -1,0 +1,4 @@
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\GenericsConstraints\obj\Debug\netcoreapp3.1\GenericsConstraints.AssemblyInfoInputs.cache
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\GenericsConstraints\obj\Debug\netcoreapp3.1\GenericsConstraints.AssemblyInfo.cs
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\GenericsConstraints\obj\Debug\netcoreapp3.1\GenericsConstraints.csproj.CoreCompileInputs.cache
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\GenericsConstraints\obj\Debug\netcoreapp3.1\GenericsConstraints.csproj.AssemblyReference.cache

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parametros2", "Parametros2.csproj", "{06DB71F6-D4C3-45F6-9A45-4C51DF4259E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sobrecarga", "..\Sobrecarga\Sobrecarga.csproj", "{6F2D6116-E5E8-425B-BE08-CE1E5BCEFBE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nullable", "..\Nullable\Nullable.csproj", "{B8742B32-538B-4C65-9BC8-F6429B21846E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06DB71F6-D4C3-45F6-9A45-4C51DF4259E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06DB71F6-D4C3-45F6-9A45-4C51DF4259E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06DB71F6-D4C3-45F6-9A45-4C51DF4259E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06DB71F6-D4C3-45F6-9A45-4C51DF4259E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F2D6116-E5E8-425B-BE08-CE1E5BCEFBE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F2D6116-E5E8-425B-BE08-CE1E5BCEFBE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F2D6116-E5E8-425B-BE08-CE1E5BCEFBE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F2D6116-E5E8-425B-BE08-CE1E5BCEFBE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8742B32-538B-4C65-9BC8-F6429B21846E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8742B32-538B-4C65-9BC8-F6429B21846E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8742B32-538B-4C65-9BC8-F6429B21846E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8742B32-538B-4C65-9BC8-F6429B21846E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F120560-A07C-4455-929C-F0B1B9A52155}
+	EndGlobalSection
+EndGlobal

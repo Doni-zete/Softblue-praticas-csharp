@@ -1,0 +1,2 @@
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\InterfaceGrafica\InterfaceGrafica\obj\Debug\InterfaceGrafica.csprojAssemblyReference.cache
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\InterfaceGrafica\InterfaceGrafica\obj\Debug\InterfaceGrafica.csproj.CoreCompileInputs.cache

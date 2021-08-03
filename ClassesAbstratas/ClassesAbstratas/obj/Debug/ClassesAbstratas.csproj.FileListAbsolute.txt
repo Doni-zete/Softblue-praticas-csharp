@@ -1,0 +1,7 @@
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\ClassesAbstratas\ClassesAbstratas\bin\Debug\ClassesAbstratas.exe.config
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\ClassesAbstratas\ClassesAbstratas\bin\Debug\ClassesAbstratas.exe
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\ClassesAbstratas\ClassesAbstratas\bin\Debug\ClassesAbstratas.pdb
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\ClassesAbstratas\ClassesAbstratas\obj\Debug\ClassesAbstratas.csproj.CoreCompileInputs.cache
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\ClassesAbstratas\ClassesAbstratas\obj\Debug\ClassesAbstratas.exe
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\ClassesAbstratas\ClassesAbstratas\obj\Debug\ClassesAbstratas.pdb
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\ClassesAbstratas\ClassesAbstratas\obj\Debug\ClassesAbstratas.csproj.AssemblyReference.cache
