@@ -7,26 +7,49 @@ namespace Lista
     {
         static void Main()
         {
-            List<string> nomes = new List<string>();
-            nomes.Add("José");
-            nomes.Add("Maria");
-            nomes.Add("Pedro");
-            nomes.Insert(1, "Paula");
+            //List<string> nomes = new List<string>();
+            //nomes.Add("José");
+            //nomes.Add("Maria");
+            //nomes.Add("Pedro");
+            //nomes.Insert(1, "Paula");
 
 
-            foreach (string nome in nomes)
+            //foreach (string nome in nomes)
+            //{
+            //    Console.WriteLine(nome);
+            //}
+
+            //for (int i = 0; i < nomes.Count; i++)
+            //{
+            //    string nome = nomes[i];
+            //    Console.WriteLine(nome);
+            //}
+
+            //bool b = nomes.Contains("José");
+            //Console.WriteLine(b);
+
+            //int pos = nomes.IndexOf("Pedro");
+            //Console.WriteLine(pos);
+
+            LinkedList<string> meses = new LinkedList<string>();
+            meses.AddLast("janeiro");
+            meses.AddLast("Fevereiro");
+            meses.AddLast("Março");
+
+            foreach (string mes in meses)
             {
-                Console.WriteLine(nome);
+                Console.WriteLine(mes);
             }
 
-            for (int i = 0; i < nomes.Count; i++)
+            LinkedListNode<string> node = meses.First;
+            Console.WriteLine(node.Value);
+
+            while(node.Next != null)
             {
-                string nome = nomes[i];
-                Console.WriteLine(nome);
+                node = node.Next;
+                Console.WriteLine(node.Value);
             }
 
-            bool b = nomes.Contains("José");
-            Console.WriteLine(b);
         }
     }
 }
