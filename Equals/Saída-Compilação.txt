@@ -1,0 +1,4 @@
+﻿Build iniciado...
+1>------ Compilação iniciada: Projeto: Equals, Configuração: Debug Any CPU ------
+1>  Equals -> E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Equals\bin\Debug\Equals.exe
+========== Compilar: 1 com êxito, 0 com falha, 0 atualizados, 0 ignorados ==========

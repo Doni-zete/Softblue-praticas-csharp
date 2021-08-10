@@ -1,0 +1,7 @@
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Equals\bin\Debug\Equals.exe.config
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Equals\bin\Debug\Equals.exe
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Equals\bin\Debug\Equals.pdb
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Equals\obj\Debug\Equals.csproj.AssemblyReference.cache
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Equals\obj\Debug\Equals.csproj.CoreCompileInputs.cache
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Equals\obj\Debug\Equals.exe
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Equals\obj\Debug\Equals.pdb
