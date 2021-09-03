@@ -1,0 +1,7 @@
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\ListSort\bin\Debug\ListSort.exe.config
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\ListSort\bin\Debug\ListSort.exe
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\ListSort\bin\Debug\ListSort.pdb
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\ListSort\obj\Debug\ListSort.csproj.AssemblyReference.cache
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\ListSort\obj\Debug\ListSort.csproj.CoreCompileInputs.cache
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\ListSort\obj\Debug\ListSort.exe
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\ListSort\obj\Debug\ListSort.pdb
