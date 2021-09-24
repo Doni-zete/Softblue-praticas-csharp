@@ -1,0 +1,15 @@
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Dicionario\bin\Debug\net5.0\Dicionario.exe
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Dicionario\bin\Debug\net5.0\Dicionario.deps.json
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Dicionario\bin\Debug\net5.0\Dicionario.runtimeconfig.json
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Dicionario\bin\Debug\net5.0\Dicionario.runtimeconfig.dev.json
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Dicionario\bin\Debug\net5.0\Dicionario.dll
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Dicionario\bin\Debug\net5.0\ref\Dicionario.dll
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Dicionario\bin\Debug\net5.0\Dicionario.pdb
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Dicionario\obj\Debug\net5.0\Dicionario.GeneratedMSBuildEditorConfig.editorconfig
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Dicionario\obj\Debug\net5.0\Dicionario.AssemblyInfoInputs.cache
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Dicionario\obj\Debug\net5.0\Dicionario.AssemblyInfo.cs
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Dicionario\obj\Debug\net5.0\Dicionario.csproj.CoreCompileInputs.cache
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Dicionario\obj\Debug\net5.0\Dicionario.dll
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Dicionario\obj\Debug\net5.0\ref\Dicionario.dll
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Dicionario\obj\Debug\net5.0\Dicionario.pdb
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Dicionario\obj\Debug\net5.0\Dicionario.genruntimeconfig.cache
