@@ -1,0 +1,16 @@
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Conjuntos\bin\Debug\net5.0\Conjuntos.exe
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Conjuntos\bin\Debug\net5.0\Conjuntos.deps.json
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Conjuntos\bin\Debug\net5.0\Conjuntos.runtimeconfig.json
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Conjuntos\bin\Debug\net5.0\Conjuntos.runtimeconfig.dev.json
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Conjuntos\bin\Debug\net5.0\Conjuntos.dll
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Conjuntos\bin\Debug\net5.0\ref\Conjuntos.dll
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Conjuntos\bin\Debug\net5.0\Conjuntos.pdb
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Conjuntos\obj\Debug\net5.0\Conjuntos.csproj.AssemblyReference.cache
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Conjuntos\obj\Debug\net5.0\Conjuntos.GeneratedMSBuildEditorConfig.editorconfig
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Conjuntos\obj\Debug\net5.0\Conjuntos.AssemblyInfoInputs.cache
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Conjuntos\obj\Debug\net5.0\Conjuntos.AssemblyInfo.cs
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Conjuntos\obj\Debug\net5.0\Conjuntos.csproj.CoreCompileInputs.cache
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Conjuntos\obj\Debug\net5.0\Conjuntos.dll
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Conjuntos\obj\Debug\net5.0\ref\Conjuntos.dll
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Conjuntos\obj\Debug\net5.0\Conjuntos.pdb
+E:\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Praticas\Softblue-praticas-csharp\Conjuntos\obj\Debug\net5.0\Conjuntos.genruntimeconfig.cache
