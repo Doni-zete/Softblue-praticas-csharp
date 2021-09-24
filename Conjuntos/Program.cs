@@ -8,19 +8,60 @@ namespace Conjuntos
         static void Main(string[] args)
         {
             HashSet<string> dias = new HashSet<string>();
-            
-            dias.Add("Segunda");
-            dias.Add("Terça");
-            dias.Add("Quarta");
-            dias.Add("Quinta");
-            dias.Add("Sexta");
-            dias.Remove("Terça");
 
-            foreach(String dia in dias)
+            //        dias.Add("Segunda");
+            //        dias.Add("Terça");
+            //        dias.Add("Quarta");
+            //        dias.Add("Quinta");
+            //        dias.Add("Sexta");
+            //        dias.Remove("Terça");
+
+            //        foreach (String dia in dias)
+            //        {
+            //            Console.WriteLine(dia); ;
+            //        }
+
+            //    }
+            //}
+
+            HashSet<Conta> contas = new HashSet<Conta>();
+
+            contas.Add(new Conta(3456));
+            contas.Add(new Conta(5681));
+            contas.Add(new Conta(2121));
+            contas.Add(new Conta(1379));
+            contas.Add(new Conta(1379));
+
+            foreach (Conta conta in contas)
             {
-                Console.WriteLine(dia); ;
+                Console.WriteLine(conta.Numero);
             }
 
+
+        }
+
+        public class Conta:IEquatable<Conta>
+        {
+            public int Numero { get; set; }
+            public Conta(int numero)
+            {
+                this.Numero = numero;
+            }
+
+            public override bool Equals(object obj)
+            {
+                
+                return Equals (obj as Conta);
+            }
+
+            public bool Equals(Conta other)
+            {
+                if(other == null)
+                {
+                    return false;
+                }
+                return this.Numero == other.Numero;
+            }
         }
     }
-}
+    }
