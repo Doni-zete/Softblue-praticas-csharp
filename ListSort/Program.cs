@@ -18,6 +18,9 @@ namespace ListSort
             tarefas.Add(new Tarefa() { Descricao = "Lavar roupa", Prioridade = Tarefa.Nivel.ALTA });
             tarefas.Add(new Tarefa() { Descricao = "Varrer calçada", Prioridade = Tarefa.Nivel.BAIXA });
 
+            ComparadorAlfabetico c = new ComparadorAlfabetico();
+            tarefas.Sort(c);
+
             foreach (Tarefa tarefa in tarefas)
             {
                 Console.WriteLine(tarefa);
@@ -25,7 +28,7 @@ namespace ListSort
         }
 
     }
-    public class Tarefa
+    public class Tarefa : IComparable<Tarefa>
     {
         public enum Nivel
 
@@ -42,7 +45,29 @@ namespace ListSort
             return string.Format("{0}({1})", Descricao, Prioridade);
         }
 
+        public int CompareTo(Tarefa other)
+        {
+            int c = this.Prioridade.CompareTo(other.Prioridade);
+
+            if (c == 0)
+            {
+                return this.Descricao.CompareTo(other.Descricao);
+
+            }
+            return -c;
+        }
     }
+
+
+    public class ComparadorAlfabetico : IComparer<Tarefa>
+    {
+        public int Compare(Tarefa x, Tarefa y)
+        {
+            return x.Descricao.CompareTo(y.Descricao);
+        }
+    }
+
+
 
 }
 
