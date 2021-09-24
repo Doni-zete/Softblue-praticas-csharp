@@ -62,6 +62,14 @@ namespace Conjuntos
                 }
                 return this.Numero == other.Numero;
             }
+
+            public override int GetHashCode()
+            {
+                int hash = 27;
+                hash = (13 * hash) + Numero.GetHashCode();
+  
+              return hash;
+            }
         }
     }
     }
