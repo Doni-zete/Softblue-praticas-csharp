@@ -1,5 +1,6 @@
 ﻿using System;
 using Exemplos.Models;
+using EXEMPLOS.helper;
 using EXEMPLOS.Interface;
 
 namespace Exemplos
@@ -8,9 +9,13 @@ namespace Exemplos
   {
     static void Main(string[] args)
     {
+       var caminho = "E:\\FATEC";
 
-ICalculadora calc = new Calculadora();
-System.Console.WriteLine(calc.Dividir(10,2));
+      FileHelper helper = new FileHelper();
+      helper.ListarDiretorios(caminho);
+
+// ICalculadora calc = new Calculadora();
+// System.Console.WriteLine(calc.Dividir(10,2));
 
 
 

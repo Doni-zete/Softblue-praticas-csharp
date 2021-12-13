@@ -6,7 +6,11 @@ namespace EXEMPLOS.helper
     {
         public void ListarDiretorios(string caminho)
         {
-            Directory.GetDirectories(caminho);
+            var retornoCaminho= Directory.GetDirectories(caminho);
+            foreach(var retorno in retornoCaminho)
+            {
+                System.Console.WriteLine(retorno);
+            }
         }
     }
 }
