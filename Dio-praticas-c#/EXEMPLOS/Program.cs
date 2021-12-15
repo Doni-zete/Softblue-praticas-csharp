@@ -25,8 +25,9 @@ namespace Exemplos
       // helper.ApagarDiretorio(caminhoPathCombine)
       // helper.CriarArquivoTexto(caminhoArquivo, "Olá! Teste de escrito de arquivo");
      
-      helper.CriarArquivoTextoStream(caminhoArquivo,listaString );
-       helper.AdicionarTextoStream(caminhoArquivo, listaStringConstinuacao);
+      // helper.CriarArquivoTextoStream(caminhoArquivo,listaString );
+      //  helper.AdicionarTextoStream(caminhoArquivo, listaStringConstinuacao);
+      helper.LerArquivoStream(caminhoArquivo);
 
       // ICalculadora calc = new Calculadora();
       // System.Console.WriteLine(calc.Dividir(10,2));
