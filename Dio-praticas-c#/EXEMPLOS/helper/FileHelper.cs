@@ -47,7 +47,7 @@ namespace EXEMPLOS.helper
 
     public void CriarArquivoTextoStream(string caminho, List<string> conteudo)
     {
-      using (var stream = File.CreateText(caminho)) 
+      using (var stream = File.CreateText(caminho))
       {
         foreach (var linha in conteudo)
         {
@@ -55,6 +55,24 @@ namespace EXEMPLOS.helper
         }
       }
     }
+
+
+    public void Adiiconartexto(string caminho, string conteudo)
+    {
+      File.AppendAllText(caminho, conteudo);
+    }
+
+    public void AdicionarTextoStream(string caminho, List<string> conteudo)
+    {
+      using (var stream = File.AppendText(caminho))
+      {
+        foreach (var linha in conteudo)
+        {
+          stream.WriteLine(linha);
+        }
+      }
+    }
+
 
   }
 }
