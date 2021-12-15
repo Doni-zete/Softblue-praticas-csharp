@@ -15,6 +15,11 @@ namespace Exemplos
 
 
       var caminhoArquivo = Path.Combine(caminho, "arquivo-texte1.txt");
+      var novocaminhoArquivo = Path.Combine(caminho, "arquivo-texte1.txt");
+      var caminhoArquivoTeste = Path.Combine(caminho, "arquivo-texte.txt");
+      var caminhoArquivoTesteCopia = Path.Combine(caminho, "arquivo-texte-backup.txt");
+
+
       var listaString = new List<string> { "Linha1", "Linha2", "Linha3" };
       var listaStringConstinuacao = new List<string> { "Linha4", "Linha5", "Linha6" };
 
@@ -27,7 +32,11 @@ namespace Exemplos
      
       // helper.CriarArquivoTextoStream(caminhoArquivo,listaString );
       //  helper.AdicionarTextoStream(caminhoArquivo, listaStringConstinuacao);
-      helper.LerArquivoStream(caminhoArquivo);
+      // helper.LerArquivoStream(caminhoArquivo);
+
+      // helper.MoverArquivo(caminhoArquivo,novocaminhoArquivo,false);
+      // helper.CopiarArquivo(caminhoArquivoTeste,caminhoArquivoTesteCopia,false);
+      helper.DeletarArquivo(caminhoArquivoTesteCopia);
 
       // ICalculadora calc = new Calculadora();
       // System.Console.WriteLine(calc.Dividir(10,2));

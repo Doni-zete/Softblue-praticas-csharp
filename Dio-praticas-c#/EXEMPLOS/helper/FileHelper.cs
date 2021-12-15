@@ -94,6 +94,23 @@ namespace EXEMPLOS.helper
       }
     }
 
+    public void MoverArquivo(string caminho, string novoCaminho, bool sobrescrever)
+    {
+      File.Move(caminho, novoCaminho,sobrescrever);
+    }
+
+
+
+    public void CopiarArquivo(string caminho, string novoCaminho,bool sobrescrever)  
+    {
+      File.Copy(caminho, novoCaminho, sobrescrever);
+    }
+
+    public void DeletarArquivo(string caminho)
+    {
+        File.Delete(caminho);
+    }
+
   }
 }
 
