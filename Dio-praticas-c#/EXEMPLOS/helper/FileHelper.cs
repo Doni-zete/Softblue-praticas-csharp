@@ -12,5 +12,15 @@ namespace EXEMPLOS.helper
                 System.Console.WriteLine(retorno);
             }
         }
+
+
+        public void ListarArquivosDiretorio(string caminho)
+        {
+             var retornoArquivos= Directory.GetFiles(caminho);
+             foreach(var retorno in retornoArquivos)
+             {
+                 System.Console.WriteLine(retorno);
+             }
+        }
     }
 }
