@@ -8,7 +8,10 @@ namespace ExemploConstrutores
         static void Main(string[] args)
         {
             Data data =new Data();
-            data.Setmes(2);
+            // data.Setmes(20);
+
+            data.Mes =20;
+            System.Console.WriteLine(data.Mes);
             data.ApresentarMes();
             // Log log = Log.GetInstance();
 

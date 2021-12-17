@@ -10,6 +10,8 @@ namespace ExemploConstrutores.models
       return this.mes;
     }
 
+
+
     public void Setmes(int mes)
     {
       if (mes > 0 && mes <= 12)
@@ -18,16 +20,32 @@ namespace ExemploConstrutores.models
         this.mesValido = true;
       }
     }
+    public int Mes
+    {
+      get
+      {
+          return this.mes;
+      }
 
+      set
+      {
+          if(value>0 &&value <=12)
+          {
+              this.mes =value;
+              this.mesValido =true;
+          }
+      }
+    }
     public void ApresentarMes()
     {
-        if(this.mesValido)
-        {
-            System.Console.WriteLine(this.mes);
-        }
-        else{
-            System.Console.WriteLine("Mes invalido");
-        }
+      if (this.mesValido)
+      {
+        System.Console.WriteLine(this.mes);
+      }
+      else
+      {
+        System.Console.WriteLine("Mes invalido");
+      }
     }
 
   }
