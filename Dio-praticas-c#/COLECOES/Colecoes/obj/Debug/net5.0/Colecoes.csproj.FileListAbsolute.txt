@@ -1,0 +1,16 @@
+E:\FATEC\CURSOS\GITHUB\PROJETOS-C#\Dio-progamando\Softblue-praticas-csharp\Dio-praticas-c#\COLECOES\Colecoes\bin\Debug\net5.0\Colecoes.exe
+E:\FATEC\CURSOS\GITHUB\PROJETOS-C#\Dio-progamando\Softblue-praticas-csharp\Dio-praticas-c#\COLECOES\Colecoes\bin\Debug\net5.0\Colecoes.deps.json
+E:\FATEC\CURSOS\GITHUB\PROJETOS-C#\Dio-progamando\Softblue-praticas-csharp\Dio-praticas-c#\COLECOES\Colecoes\bin\Debug\net5.0\Colecoes.runtimeconfig.json
+E:\FATEC\CURSOS\GITHUB\PROJETOS-C#\Dio-progamando\Softblue-praticas-csharp\Dio-praticas-c#\COLECOES\Colecoes\bin\Debug\net5.0\Colecoes.runtimeconfig.dev.json
+E:\FATEC\CURSOS\GITHUB\PROJETOS-C#\Dio-progamando\Softblue-praticas-csharp\Dio-praticas-c#\COLECOES\Colecoes\bin\Debug\net5.0\Colecoes.dll
+E:\FATEC\CURSOS\GITHUB\PROJETOS-C#\Dio-progamando\Softblue-praticas-csharp\Dio-praticas-c#\COLECOES\Colecoes\bin\Debug\net5.0\ref\Colecoes.dll
+E:\FATEC\CURSOS\GITHUB\PROJETOS-C#\Dio-progamando\Softblue-praticas-csharp\Dio-praticas-c#\COLECOES\Colecoes\bin\Debug\net5.0\Colecoes.pdb
+E:\FATEC\CURSOS\GITHUB\PROJETOS-C#\Dio-progamando\Softblue-praticas-csharp\Dio-praticas-c#\COLECOES\Colecoes\obj\Debug\net5.0\Colecoes.csproj.AssemblyReference.cache
+E:\FATEC\CURSOS\GITHUB\PROJETOS-C#\Dio-progamando\Softblue-praticas-csharp\Dio-praticas-c#\COLECOES\Colecoes\obj\Debug\net5.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+E:\FATEC\CURSOS\GITHUB\PROJETOS-C#\Dio-progamando\Softblue-praticas-csharp\Dio-praticas-c#\COLECOES\Colecoes\obj\Debug\net5.0\Colecoes.AssemblyInfoInputs.cache
+E:\FATEC\CURSOS\GITHUB\PROJETOS-C#\Dio-progamando\Softblue-praticas-csharp\Dio-praticas-c#\COLECOES\Colecoes\obj\Debug\net5.0\Colecoes.AssemblyInfo.cs
+E:\FATEC\CURSOS\GITHUB\PROJETOS-C#\Dio-progamando\Softblue-praticas-csharp\Dio-praticas-c#\COLECOES\Colecoes\obj\Debug\net5.0\Colecoes.csproj.CoreCompileInputs.cache
+E:\FATEC\CURSOS\GITHUB\PROJETOS-C#\Dio-progamando\Softblue-praticas-csharp\Dio-praticas-c#\COLECOES\Colecoes\obj\Debug\net5.0\Colecoes.dll
+E:\FATEC\CURSOS\GITHUB\PROJETOS-C#\Dio-progamando\Softblue-praticas-csharp\Dio-praticas-c#\COLECOES\Colecoes\obj\Debug\net5.0\ref\Colecoes.dll
+E:\FATEC\CURSOS\GITHUB\PROJETOS-C#\Dio-progamando\Softblue-praticas-csharp\Dio-praticas-c#\COLECOES\Colecoes\obj\Debug\net5.0\Colecoes.pdb
+E:\FATEC\CURSOS\GITHUB\PROJETOS-C#\Dio-progamando\Softblue-praticas-csharp\Dio-praticas-c#\COLECOES\Colecoes\obj\Debug\net5.0\Colecoes.genruntimeconfig.cache
