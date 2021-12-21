@@ -23,17 +23,27 @@ namespace Colecoes.Helper
     }
     public void ImprimirArray(int[] array)
     {
-      var linha =string.Join(",", array);
-     System.Console.WriteLine(linha);
-      
+      var linha = string.Join(",", array);
+      System.Console.WriteLine(linha);
+
     }
-     public void Ordenar(ref int[]array)
-     {
-       Array.Sort(array);
-     }
-     public void Copiar(ref int[] array,ref int[] arrayDestino)
-     {
-       Array.Copy(array, arrayDestino, array.Length);
-     }
+    public void Ordenar(ref int[] array)
+    {
+      Array.Sort(array);
+    }
+    public void Copiar(ref int[] array, ref int[] arrayDestino)
+    {
+      Array.Copy(array, arrayDestino, array.Length);
+    }
+
+    public bool Existe(int[] array, int valor)
+    {
+      return Array.Exists(array, elemento => elemento == valor);
+    }
+
+    public bool TodosMaiorQue(int[] array, int valor)
+    {
+      return Array.TrueForAll(array,elemento => elemento>valor);
+    }
   }
 }

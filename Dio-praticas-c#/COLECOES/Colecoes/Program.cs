@@ -9,16 +9,46 @@ namespace Colecoes
     {
       OperacoesArray op = new OperacoesArray();
       int[] array = new int[5] { 6, 38, 1, 9, 2 };
-      int[] arrayCopia =new int[10];
+      int[] arrayCopia = new int[10];
 
-      System.Console.WriteLine("Array original:");
-      op.ImprimirArray(array);
+      int valorprocurado = 5;
+
+      bool TodosMaiorQue =op.TodosMaiorQue(array,valorprocurado);
+      if(TodosMaiorQue)
+      {
+          System.Console.WriteLine("Todos os valores são maior que {0}",valorprocurado);
+      }
+      else
+      {
+        System.Console.WriteLine("Existe valores que não são maiores do que {0}", valorprocurado);
+      }
+      // bool existe = op.Existe(array, valorprocurado);
+
+      // System.Console.WriteLine("Array original:");
+      // op.ImprimirArray(array);
+
+
+      // if (existe)
+      // {
+      //   System.Console.WriteLine("Encontrei o valor {0}", valorprocurado);
+      // }
+      // else
+      // {
+      //   System.Console.WriteLine("Não encontrei o valor: {0}", valorprocurado);
+      // }
 
       // op.OrdenarBurbleSort(ref array);
-      op.Ordenar(ref array);
-      
-      System.Console.WriteLine("Array ordenado:");
-      op.ImprimirArray(array);
+      // op.Ordenar(ref array);
+
+      // System.Console.WriteLine("Array ordenado:");
+      // op.ImprimirArray(array);
+
+      // System.Console.WriteLine("Array antes da copia");
+      // op.ImprimirArray(arrayCopia);
+
+      // op.Copiar(ref array, ref arrayCopia);
+      // System.Console.WriteLine("Array após a copia");
+      // op.ImprimirArray(arrayCopia);
 
       // int[,] matriz = new int[4, 2]
       // {
