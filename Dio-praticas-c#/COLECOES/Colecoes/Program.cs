@@ -9,11 +9,13 @@ namespace Colecoes
     {
       OperacoesArray op = new OperacoesArray();
       int[] array = new int[5] { 6, 38, 1, 9, 2 };
+      int[] arrayCopia =new int[10];
 
       System.Console.WriteLine("Array original:");
       op.ImprimirArray(array);
 
-      op.OrdenarBurbleSort(ref array);
+      // op.OrdenarBurbleSort(ref array);
+      op.Ordenar(ref array);
       
       System.Console.WriteLine("Array ordenado:");
       op.ImprimirArray(array);
