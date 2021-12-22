@@ -13,19 +13,28 @@ namespace Colecoes
 
       int valorprocurado = 15;
 
-      int valorAchado =op.ObterValor(array,valorprocurado);
-      if(valorAchado>0)
-      {
-        System.Console.WriteLine("Encontrei o valor");
-      }
-      else
-      {
-        System.Console.WriteLine("não encontrei o valor");
-      }
+    int indice = op.ObterIndice(array,valorprocurado);
+    if(indice>-1)
+    {
+      System.Console.WriteLine("o indice do elemento {0} é: {1}",valorprocurado,indice);
+    }
+    else
+    {
+      System.Console.WriteLine("Valor não existente no array");
+    }
 
 
 
 
+      // int valorAchado =op.ObterValor(array,valorprocurado);
+      // if(valorAchado>0)
+      // {
+      //   System.Console.WriteLine("Encontrei o valor");
+      // }
+      // else
+      // {
+      //   System.Console.WriteLine("não encontrei o valor");
+      // }
 
       // bool TodosMaiorQue =op.TodosMaiorQue(array,valorprocurado);
       // if(TodosMaiorQue)
