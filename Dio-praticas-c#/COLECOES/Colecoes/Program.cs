@@ -13,15 +13,20 @@ namespace Colecoes
 
       int valorprocurado = 15;
 
-    int indice = op.ObterIndice(array,valorprocurado);
-    if(indice>-1)
-    {
-      System.Console.WriteLine("o indice do elemento {0} é: {1}",valorprocurado,indice);
-    }
-    else
-    {
-      System.Console.WriteLine("Valor não existente no array");
-    }
+    System.Console.WriteLine($"Capacidade atual do arrray: {array.Length}");
+    op.RedimensionarArray(ref array, array.Length*2);
+
+    System.Console.WriteLine($"Capacidade atual do array após redimensionar: {array.Length}");
+
+    // int indice = op.ObterIndice(array,valorprocurado);
+    // if(indice>-1)
+    // {
+    //   System.Console.WriteLine("o indice do elemento {0} é: {1}",valorprocurado,indice);
+    // }
+    // else
+    // {
+    //   System.Console.WriteLine("Valor não existente no array");
+    // }
 
 
 
