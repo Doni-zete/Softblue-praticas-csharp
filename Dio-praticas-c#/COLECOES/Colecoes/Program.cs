@@ -7,22 +7,24 @@ namespace Colecoes
   class Program
   {
 
-
-
     static void Main(string[] args)
     {
       OperacoesLista opLista = new OperacoesLista();
-      List<string> estado = new List<string>();
-      estado.Add("SP");
-      estado.Add("MG");
-      estado.Add("BA");
+      List<string> estado = new List<string> { "SP", "MG", "BA" };
+      string[] estadoArray = new string[2] { "SC", "MT" };
+
+      // estado.Add("SP");
+      // estado.Add("MG");
+      // estado.Add("BA");
 
       System.Console.WriteLine($"Quantidade de elementos na lista: {estado.Count}");
 
       opLista.ImprimirListaString(estado);
 
-       System.Console.WriteLine("Removendo o elemento");     
-      estado.Remove("MG");
+      // System.Console.WriteLine("Removendo o elemento");
+      // estado.Remove("MG");
+
+      estado.AddRange(estadoArray);
 
       opLista.ImprimirListaString(estado);
 
