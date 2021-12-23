@@ -9,24 +9,48 @@ namespace Colecoes
 
     static void Main(string[] args)
     {
-      OperacoesLista opLista = new OperacoesLista();
-      List<string> estado = new List<string> { "SP", "MG", "BA" };
-      string[] estadoArray = new string[2] { "SC", "MT" };
+
+      Stack<string> pilhaLivros = new Stack<string>();
+
+      pilhaLivros.Push(".NET");
+      pilhaLivros.Push("DDD");
+      pilhaLivros.Push("Codigo limpo");
+
+      System.Console.WriteLine($"Livros para a leitura: {pilhaLivros.Count}");
+      while(pilhaLivros.Count>0)
+      {
+        System.Console.WriteLine($"Proximo livro para a leitura: {pilhaLivros.Peek()}");
+        System.Console.WriteLine($"{pilhaLivros.Pop()} lido com sucesso");
+      }
+
+      System.Console.WriteLine($"Livros para a leitura: {pilhaLivros.Count}");
+
+
+      // Queue<string> fila = new Queue<string>();
+
+      // fila.Enqueue("Donizete");
+      // fila.Enqueue("Doni");
+      // fila.Enqueue("zete");
+
+      // OperacoesLista opLista = new OperacoesLista();
+      // List<string> estado = new List<string> { "SP", "MG", "BA" };
+      // string[] estadoArray = new string[2] { "SC", "MT" };
 
       // estado.Add("SP");
       // estado.Add("MG");
       // estado.Add("BA");
 
-      System.Console.WriteLine($"Quantidade de elementos na lista: {estado.Count}");
+      // System.Console.WriteLine($"Quantidade de elementos na lista: {estado.Count}");
 
-      opLista.ImprimirListaString(estado);
+      // opLista.ImprimirListaString(estado);
 
       // System.Console.WriteLine("Removendo o elemento");
       // estado.Remove("MG");
 
-      estado.AddRange(estadoArray);
+      // estado.AddRange(estadoArray);
+      // estado.Insert(1,"RJ");
 
-      opLista.ImprimirListaString(estado);
+      // opLista.ImprimirListaString(estado);
 
       // for (var i = 0; i < estado.Count; i++)
       // {
