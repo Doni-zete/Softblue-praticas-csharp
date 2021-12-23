@@ -11,6 +11,8 @@ namespace Colecoes
       int[] array = new int[5] { 6, 38, 1, 9, 2 };
       int[] arrayCopia = new int[10];
 
+      string[] arrayString = op.ConverterParaStringArray(array);
+
       int valorprocurado = 15;
 
     System.Console.WriteLine($"Capacidade atual do arrray: {array.Length}");
