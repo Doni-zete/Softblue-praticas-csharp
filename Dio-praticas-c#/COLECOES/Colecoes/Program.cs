@@ -1,34 +1,56 @@
 ﻿using System;
+using System.Collections.Generic;
 using Colecoes.Helper;
 
 namespace Colecoes
 {
   class Program
   {
+
+
+
     static void Main(string[] args)
     {
-      OperacoesArray op = new OperacoesArray();
-      int[] array = new int[5] { 6, 38, 1, 9, 2 };
-      int[] arrayCopia = new int[10];
+      List<string> estado = new List<string>();
+      estado.Add("SP");
+      estado.Add("MG");
+      estado.Add("BA");
 
-      string[] arrayString = op.ConverterParaStringArray(array);
+      System.Console.WriteLine($"Quantidade de elementos na lista: {estado.Count}");
 
-      int valorprocurado = 15;
+      foreach (var item in estado)
+      {
+        System.Console.WriteLine(item);
+      }
 
-    System.Console.WriteLine($"Capacidade atual do arrray: {array.Length}");
-    op.RedimensionarArray(ref array, array.Length*2);
+      for (var i = 0; i < estado.Count; i++)
+      {
+        System.Console.WriteLine($"indice {i}, Valor: {estado[i]}");
+      }
 
-    System.Console.WriteLine($"Capacidade atual do array após redimensionar: {array.Length}");
 
-    // int indice = op.ObterIndice(array,valorprocurado);
-    // if(indice>-1)
-    // {
-    //   System.Console.WriteLine("o indice do elemento {0} é: {1}",valorprocurado,indice);
-    // }
-    // else
-    // {
-    //   System.Console.WriteLine("Valor não existente no array");
-    // }
+      //   OperacoesArray op = new OperacoesArray();
+      //   int[] array = new int[5] { 6, 38, 1, 9, 2 };
+      //   int[] arrayCopia = new int[10];
+
+      //   string[] arrayString = op.ConverterParaStringArray(array);
+
+      //   int valorprocurado = 15;
+
+      // System.Console.WriteLine($"Capacidade atual do arrray: {array.Length}");
+      // op.RedimensionarArray(ref array, array.Length*2);
+
+      // System.Console.WriteLine($"Capacidade atual do array após redimensionar: {array.Length}");
+
+      // int indice = op.ObterIndice(array,valorprocurado);
+      // if(indice>-1)
+      // {
+      //   System.Console.WriteLine("o indice do elemento {0} é: {1}",valorprocurado,indice);
+      // }
+      // else
+      // {
+      //   System.Console.WriteLine("Valor não existente no array");
+      // }
 
 
 
@@ -123,4 +145,5 @@ namespace Colecoes
 
     }
   }
+
 }
