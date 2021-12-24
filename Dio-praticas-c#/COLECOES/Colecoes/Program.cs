@@ -9,23 +9,32 @@ namespace Colecoes
 
     static void Main(string[] args)
     {
-      Dictionary<string, string>estados = new Dictionary<string, string>();
-      estados.Add("SP","São Paulo");
+      Dictionary<string, string> estados = new Dictionary<string, string>();
+      estados.Add("SP", "São Paulo");
       estados.Add("MG", "Minas Gerais");
       estados.Add("BA", "Bahia");
       // estados.Add("BA", "");
 
-      foreach(KeyValuePair<string, string>item in estados)
+      foreach (KeyValuePair<string, string> item in estados)
       {
         System.Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
       }
 
       string valorprocurado = "BA";
-      System.Console.WriteLine("Valor original: ");
-      System.Console.WriteLine(estados[valorprocurado]);
 
-      estados[valorprocurado]= "BA - teste atualização";
-      System.Console.WriteLine(estados[valorprocurado]);
+      System.Console.WriteLine($"Removendo o valor: {valorprocurado}");
+      estados.Remove(valorprocurado);
+
+      foreach (KeyValuePair<string, string> item in estados)
+      {
+        System.Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+      }
+
+      // System.Console.WriteLine("Valor original: ");
+      // System.Console.WriteLine(estados[valorprocurado]);
+
+      // estados[valorprocurado]= "BA - teste atualização";
+      // System.Console.WriteLine(estados[valorprocurado]);
 
       // Stack<string> pilhaLivros = new Stack<string>();
 
