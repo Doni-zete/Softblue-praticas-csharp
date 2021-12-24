@@ -13,11 +13,19 @@ namespace Colecoes
       estados.Add("SP","São Paulo");
       estados.Add("MG", "Minas Gerais");
       estados.Add("BA", "Bahia");
+      // estados.Add("BA", "");
 
       foreach(KeyValuePair<string, string>item in estados)
       {
         System.Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
       }
+
+      string valorprocurado = "BA";
+      System.Console.WriteLine("Valor original: ");
+      System.Console.WriteLine(estados[valorprocurado]);
+
+      estados[valorprocurado]= "BA - teste atualização";
+      System.Console.WriteLine(estados[valorprocurado]);
 
       // Stack<string> pilhaLivros = new Stack<string>();
 
