@@ -22,13 +22,23 @@ namespace Colecoes
 
       string valorprocurado = "BA";
 
-      System.Console.WriteLine($"Removendo o valor: {valorprocurado}");
-      estados.Remove(valorprocurado);
+      var teste = estados["SC"];
 
-      foreach (KeyValuePair<string, string> item in estados)
-      {
-        System.Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
-      }
+    if(estados.TryGetValue(valorprocurado, out string estadoEncontrado))
+    {
+      System.Console.WriteLine(estadoEncontrado);
+    }
+    else{
+      System.Console.WriteLine($"Chave {valorprocurado} não existe no dicionario");
+    }
+
+      // System.Console.WriteLine($"Removendo o valor: {valorprocurado}");
+      // estados.Remove(valorprocurado);
+
+      // foreach (KeyValuePair<string, string> item in estados)
+      // {
+      //   System.Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+      // }
 
       // System.Console.WriteLine("Valor original: ");
       // System.Console.WriteLine(estados[valorprocurado]);
