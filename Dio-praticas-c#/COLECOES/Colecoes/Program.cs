@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using Colecoes.Helper;
 
 namespace Colecoes
@@ -9,28 +10,44 @@ namespace Colecoes
 
     static void Main(string[] args)
     {
-      Dictionary<string, string> estados = new Dictionary<string, string>();
-      estados.Add("SP", "São Paulo");
-      estados.Add("MG", "Minas Gerais");
-      estados.Add("BA", "Bahia");
-      // estados.Add("BA", "");
 
-      foreach (KeyValuePair<string, string> item in estados)
-      {
-        System.Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
-      }
+      int[] arrayNumeros = new int[5] { 1, 4, 8, 15, 19 };
 
-      string valorprocurado = "BA";
+      var numerosParesQuery =
+      from num in arrayNumeros
+      where num % 2 == 0
+      orderby num
+      select num;
 
-      var teste = estados["SC"];
+      var numerosParesMetodos = arrayNumeros.Where(x => x % 2 == 0).OrderBy(x => x).ToList();
 
-    if(estados.TryGetValue(valorprocurado, out string estadoEncontrado))
-    {
-      System.Console.WriteLine(estadoEncontrado);
-    }
-    else{
-      System.Console.WriteLine($"Chave {valorprocurado} não existe no dicionario");
-    }
+      System.Console.WriteLine("Numeros pares query: " + string.Join(",", numerosParesQuery));
+      System.Console.WriteLine("Numeros pares metodos:" + string.Join(",", numerosParesMetodos));
+
+
+      // {
+      //   Dictionary<string, string> estados = new Dictionary<string, string>();
+      //   estados.Add("SP", "São Paulo");
+      //   estados.Add("MG", "Minas Gerais");
+      //   estados.Add("BA", "Bahia");
+      //   // estados.Add("BA", "");
+
+      //   foreach (KeyValuePair<string, string> item in estados)
+      //   {
+      //     // System.Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+      //   }
+
+      //   string valorprocurado = "SC";
+
+      //   // var teste = estados["SC"];
+
+      // if(estados.TryGetValue(valorprocurado, out string estadoEncontrado))
+      // {
+      //   System.Console.WriteLine(estadoEncontrado);
+      // }
+      // else{
+      //   System.Console.WriteLine($"Chave {valorprocurado} não existe no dicionario");
+      // }
 
       // System.Console.WriteLine($"Removendo o valor: {valorprocurado}");
       // estados.Remove(valorprocurado);
